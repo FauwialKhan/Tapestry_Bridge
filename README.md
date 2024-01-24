@@ -11,7 +11,7 @@ You will require:
 
 Packages for the program’s smooth running will be in the R code itself. 
 
-#Since the program requires a ‘year’ for which the data frame will be created. That is the key input for successful execution. 
+# Since the program requires a ‘year’ for which the data frame will be created. That is the key input for successful execution. 
 
 As a brief, this is all that is currently required. The RMD (R Markdown) file will further describe the programs working. 
 
